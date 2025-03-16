@@ -1,2 +1,7 @@
 # csd-340
-This is for Bellevue University Course
+# CSD 340 Web Development with HTML and CSS
+
+## Contributors
+- **Instructor:** Martinez
+- **Student:** Luvius Thanh
+
