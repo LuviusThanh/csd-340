@@ -1,0 +1,50 @@
+/* Center h1 title */
+h1 {
+    text-align: center;
+}
+
+/* Side-by-side divs */
+.side-by-side {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Last div settings */
+#bottom-div {
+    width: 100%;
+    margin-top: 60%;
+    float: right;
+    margin-bottom: 20px;
+}
+
+/* Styling h3 and lists */
+h3 {
+    font-weight: 500;
+}
+
+ol, ul {
+    font-weight: 300;
+}
+
+/* Ordered list (Favorite Books) */
+#left-div h3, #left-div ol {
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+    list-style-position: inside;
+}
+
+/* Unordered list (Things Learned) */
+#right-div h3, #right-div ul {
+    border: 1px dashed red;
+    border-radius: 15px;
+    padding: 10px;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+/* Link hover effect */
+a:hover {
+    text-decoration: underline;
+}
