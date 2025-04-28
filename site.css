@@ -1,0 +1,35 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Container */
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    background-color: #4F3674; /* Choose your own color scheme */
+    color: #FFFFFF;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+/* Links */
+a {
+    color: #4F3674;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #D6A800;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #8A2BE2;
+}
